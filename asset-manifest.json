@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Project-2/static/css/main.a59ee06a.css",
+    "main.js": "/Project-2/static/js/main.89c5312f.js",
+    "static/js/453.ad6eb26e.chunk.js": "/Project-2/static/js/453.ad6eb26e.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/Project-2/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/Project-2/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/Project-2/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/Project-2/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/Project-2/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/Project-2/index.html",
+    "main.a59ee06a.css.map": "/Project-2/static/css/main.a59ee06a.css.map",
+    "main.89c5312f.js.map": "/Project-2/static/js/main.89c5312f.js.map",
+    "453.ad6eb26e.chunk.js.map": "/Project-2/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a59ee06a.css",
+    "static/js/main.89c5312f.js"
+  ]
+}
