@@ -1,33 +1,20 @@
 {
   "files": {
-    "main.css": "/MyProtofilo/static/css/main.01d90c6c.css",
-    "main.js": "/MyProtofilo/static/js/main.958557d4.js",
-    "static/js/453.ad6eb26e.chunk.js": "/MyProtofilo/static/js/453.ad6eb26e.chunk.js",
-    "static/media/sabari3.png": "/MyProtofilo/static/media/sabari3.642d829f163644417b8b.png",
-    "static/media/project1.png": "/MyProtofilo/static/media/project1.7e1268468f32c2ab77c8.png",
-    "static/media/project2.png": "/MyProtofilo/static/media/project2.516515be0b40a6e71e21.png",
-    "static/media/react.png": "/MyProtofilo/static/media/react.d167a5ddef41d2536fa4.png",
-    "static/media/mongodp.png": "/MyProtofilo/static/media/mongodp.5b3b1548fc3d3ab2bcbf.png",
-    "static/media/glyphicons-halflings-regular.svg": "/MyProtofilo/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
-    "static/media/contact1.png": "/MyProtofilo/static/media/contact1.da012fad5caac1ea09e4.png",
-    "static/media/glyphicons-halflings-regular.ttf": "/MyProtofilo/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
-    "static/media/web.jpg": "/MyProtofilo/static/media/web.327c99f71d2d422451ee.jpg",
-    "static/media/Nodejs.png": "/MyProtofilo/static/media/Nodejs.7c94c770dd462ef14ec9.png",
-    "static/media/figma.png": "/MyProtofilo/static/media/figma.3c93a4bb3e326628d6c6.png",
-    "static/media/glyphicons-halflings-regular.woff": "/MyProtofilo/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
-    "static/media/workind-boy.png": "/MyProtofilo/static/media/workind-boy.c5325f52b5be329995a5.png",
-    "static/media/glyphicons-halflings-regular.eot": "/MyProtofilo/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
-    "static/media/css.png": "/MyProtofilo/static/media/css.bc75ccc78e3bf74f8aed.png",
-    "static/media/glyphicons-halflings-regular.woff2": "/MyProtofilo/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
-    "static/media/js.png": "/MyProtofilo/static/media/js.b59d7a18a2afccde7ad0.png",
-    "static/media/HTML.png": "/MyProtofilo/static/media/HTML.7ce256ade95eac32a633.png",
-    "index.html": "/MyProtofilo/index.html",
-    "main.01d90c6c.css.map": "/MyProtofilo/static/css/main.01d90c6c.css.map",
-    "main.958557d4.js.map": "/MyProtofilo/static/js/main.958557d4.js.map",
-    "453.ad6eb26e.chunk.js.map": "/MyProtofilo/static/js/453.ad6eb26e.chunk.js.map"
+    "main.css": "/static/css/main.ea0b27ae.css",
+    "main.js": "/static/js/main.e5eb5b0a.js",
+    "static/js/453.ad6eb26e.chunk.js": "/static/js/453.ad6eb26e.chunk.js",
+    "static/media/glyphicons-halflings-regular.svg": "/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/index.html",
+    "main.ea0b27ae.css.map": "/static/css/main.ea0b27ae.css.map",
+    "main.e5eb5b0a.js.map": "/static/js/main.e5eb5b0a.js.map",
+    "453.ad6eb26e.chunk.js.map": "/static/js/453.ad6eb26e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01d90c6c.css",
-    "static/js/main.958557d4.js"
+    "static/css/main.ea0b27ae.css",
+    "static/js/main.e5eb5b0a.js"
   ]
 }
